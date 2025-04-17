@@ -117,15 +117,18 @@ Here, you will see the real-time presence status of faculty members. You can mon
 
 ## Registration Screenshot
 
-![Registration Screenshot](assets/registration.png)
+![Registration Screenshot](images/Ankur_Regis.png)
+![Registration Screenshot](images/Rishabh_Regis.png)
+
 
 ## Entry Detection Screenshot
 
-![Entry Detection](assets/entry.png)
+![Entry Detection](images/Anukr_Entered.png)
 
 ## Exit Detection Screenshot
 
-![Exit Detection](assets/exit.png)
+![Exit Detection](images/Ankur_Exited.png)
+![Exit Detection](images/Rishabh_Exited.png)
 
 ---
 
